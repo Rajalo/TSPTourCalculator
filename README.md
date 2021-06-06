@@ -1,4 +1,4 @@
-#TSP Tour Calculator
+# TSP Tour Calculator
 
 This program uses the branch and bound technique to find the optimal Traveling Salesperson Tour (TSP) tour for a set of points. It has an upper limit of 20 points for performance reasons. 
 Simply left click to add a point into the grid, right click on a point to remove it from consideration. Click clear to get rid of all points in contention and click tour to construct the TSP tour.
